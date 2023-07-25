@@ -1,0 +1,14 @@
+.idea/
+Charisma.Application/obj/
+Charisma.Domain/obj/
+Charisma.Infrastructure/obj/
+Charisma.Persistence/bin/
+Charisma.Persistence/obj/
+Charisma.Presentation/bin/
+Charisma.Presentation/obj/
+Charisma.SharedKernel/obj/
+Charisma.Test/bin/
+Charisma.Test/obj/
+Charisma.Web/bin/
+Charisma.Web/obj/
+Charisma.SharedKernel/bin/
