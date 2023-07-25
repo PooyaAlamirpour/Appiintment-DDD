@@ -1,9 +1,0 @@
-{
-  "Charisma.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooya\\Desktop\\Pooya\\Charisma\\Source\\Charisma.Appointment.v3\\Charisma.Application",
-  "Charisma.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooya\\Desktop\\Pooya\\Charisma\\Source\\Charisma.Appointment.v3\\Charisma.Contracts",
-  "Charisma.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooya\\Desktop\\Pooya\\Charisma\\Source\\Charisma.Appointment.v3\\Charisma.Domain",
-  "Charisma.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooya\\Desktop\\Pooya\\Charisma\\Source\\Charisma.Appointment.v3\\Charisma.Infrastructure",
-  "Charisma.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooya\\Desktop\\Pooya\\Charisma\\Source\\Charisma.Appointment.v3\\Charisma.Persistence",
-  "Charisma.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooya\\Desktop\\Pooya\\Charisma\\Source\\Charisma.Appointment.v3\\Charisma.Presentation",
-  "Charisma.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Pooya\\Desktop\\Pooya\\Charisma\\Source\\Charisma.Appointment.v3\\Charisma.Web"
-}

@@ -28,3 +28,5 @@ Appointment.Web/obj/
 Appointment.Persistence/bin/
 Appointment.Application/obj/
 Appointment.Presentation/bin/
+Appointment.Test/bin/
+Appointment.Test/obj/
