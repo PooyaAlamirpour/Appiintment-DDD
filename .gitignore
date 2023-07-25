@@ -12,3 +12,5 @@ Charisma.Test/obj/
 Charisma.Web/bin/
 Charisma.Web/obj/
 Charisma.SharedKernel/bin/
+Charisma.Application/bin/
+Charisma.Domain/bin/
