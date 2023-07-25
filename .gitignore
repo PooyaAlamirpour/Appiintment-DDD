@@ -14,3 +14,17 @@ Charisma.Web/obj/
 Charisma.SharedKernel/bin/
 Charisma.Application/bin/
 Charisma.Domain/bin/
+Appointment.Infrastructure/bin/
+Appointment.Application/bin/
+Appointment.Infrastructure/obj/
+Appointment.Domain/bin/
+Appointment.Persistence/obj/
+Appointment.Presentation/obj/
+Appointment.Domain/obj/
+Appointment.SharedKernel/obj/
+Appointment.SharedKernel/bin/
+Appointment.Web/bin/
+Appointment.Web/obj/
+Appointment.Persistence/bin/
+Appointment.Application/obj/
+Appointment.Presentation/bin/

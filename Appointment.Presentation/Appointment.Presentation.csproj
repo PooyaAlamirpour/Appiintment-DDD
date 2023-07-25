@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>10</LangVersion>
+    <RootNamespace>Appointment.Presentation</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mapster" Version="7.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Appointment.Application\Appointment.Application.csproj" />
+    <ProjectReference Include="..\Appointment.SharedKernel\Appointment.SharedKernel.csproj" />
+    <ProjectReference Include="..\Appointment.Infrastructure\Appointment.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

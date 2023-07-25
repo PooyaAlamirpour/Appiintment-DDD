@@ -1,0 +1,15 @@
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Application\bin\Debug\net7.0\Charisma.Application.deps.json
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Application\bin\Debug\net7.0\Charisma.Application.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Application\bin\Debug\net7.0\Charisma.Application.pdb
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Application\bin\Debug\net7.0\Charisma.Domain.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Application\bin\Debug\net7.0\Charisma.Domain.pdb
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Application\obj\Debug\net7.0\Charisma.Application.csproj.AssemblyReference.cache
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Application\obj\Debug\net7.0\Charisma.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Application\obj\Debug\net7.0\Charisma.Application.AssemblyInfoInputs.cache
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Application\obj\Debug\net7.0\Charisma.Application.AssemblyInfo.cs
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Application\obj\Debug\net7.0\Charisma.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Application\obj\Debug\net7.0\Charisma.Application.csproj.CopyComplete
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Application\obj\Debug\net7.0\Charisma.Application.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Application\obj\Debug\net7.0\refint\Charisma.Application.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Application\obj\Debug\net7.0\Charisma.Application.pdb
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Application\obj\Debug\net7.0\ref\Charisma.Application.dll

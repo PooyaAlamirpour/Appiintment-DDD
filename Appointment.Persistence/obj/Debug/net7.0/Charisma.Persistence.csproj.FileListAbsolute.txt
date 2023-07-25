@@ -1,0 +1,17 @@
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Persistence\bin\Debug\net7.0\Charisma.Persistence.deps.json
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Persistence\bin\Debug\net7.0\Charisma.Persistence.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Persistence\bin\Debug\net7.0\Charisma.Persistence.pdb
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Persistence\bin\Debug\net7.0\Charisma.Application.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Persistence\bin\Debug\net7.0\Charisma.Domain.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Persistence\bin\Debug\net7.0\Charisma.Application.pdb
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Persistence\bin\Debug\net7.0\Charisma.Domain.pdb
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Persistence\obj\Debug\net7.0\Charisma.Persistence.csproj.AssemblyReference.cache
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Persistence\obj\Debug\net7.0\Charisma.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Persistence\obj\Debug\net7.0\Charisma.Persistence.AssemblyInfoInputs.cache
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Persistence\obj\Debug\net7.0\Charisma.Persistence.AssemblyInfo.cs
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Persistence\obj\Debug\net7.0\Charisma.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Persistence\obj\Debug\net7.0\Charisma.Persistence.csproj.CopyComplete
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Persistence\obj\Debug\net7.0\Charisma.Persistence.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Persistence\obj\Debug\net7.0\refint\Charisma.Persistence.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Persistence\obj\Debug\net7.0\Charisma.Persistence.pdb
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Persistence\obj\Debug\net7.0\ref\Charisma.Persistence.dll

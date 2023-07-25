@@ -1,0 +1,15 @@
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.SharedKernel\bin\Debug\net7.0\Charisma.SharedKernel.deps.json
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.SharedKernel\bin\Debug\net7.0\Charisma.SharedKernel.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.SharedKernel\bin\Debug\net7.0\Charisma.SharedKernel.pdb
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.SharedKernel\bin\Debug\net7.0\Charisma.Domain.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.SharedKernel\bin\Debug\net7.0\Charisma.Domain.pdb
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.SharedKernel\obj\Debug\net7.0\Charisma.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.SharedKernel\obj\Debug\net7.0\Charisma.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.SharedKernel\obj\Debug\net7.0\Charisma.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.SharedKernel\obj\Debug\net7.0\Charisma.SharedKernel.AssemblyInfo.cs
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.SharedKernel\obj\Debug\net7.0\Charisma.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.SharedKernel\obj\Debug\net7.0\Charisma.SharedKernel.csproj.CopyComplete
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.SharedKernel\obj\Debug\net7.0\Charisma.SharedKernel.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.SharedKernel\obj\Debug\net7.0\refint\Charisma.SharedKernel.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.SharedKernel\obj\Debug\net7.0\Charisma.SharedKernel.pdb
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.SharedKernel\obj\Debug\net7.0\ref\Charisma.SharedKernel.dll

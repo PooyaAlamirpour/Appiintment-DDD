@@ -1,0 +1,15 @@
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Contracts\bin\Debug\net7.0\Charisma.Contracts.deps.json
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Contracts\bin\Debug\net7.0\Charisma.Contracts.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Contracts\bin\Debug\net7.0\Charisma.Contracts.pdb
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Contracts\obj\Debug\net7.0\Charisma.Contracts.csproj.AssemblyReference.cache
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Contracts\obj\Debug\net7.0\Charisma.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Contracts\obj\Debug\net7.0\Charisma.Contracts.AssemblyInfoInputs.cache
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Contracts\obj\Debug\net7.0\Charisma.Contracts.AssemblyInfo.cs
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Contracts\obj\Debug\net7.0\Charisma.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Contracts\obj\Debug\net7.0\Charisma.Contracts.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Contracts\obj\Debug\net7.0\refint\Charisma.Contracts.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Contracts\obj\Debug\net7.0\Charisma.Contracts.pdb
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Contracts\obj\Debug\net7.0\ref\Charisma.Contracts.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Contracts\bin\Debug\net7.0\Charisma.Domain.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Contracts\bin\Debug\net7.0\Charisma.Domain.pdb
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Contracts\obj\Debug\net7.0\Charisma.Contracts.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Domain\bin\Debug\net7.0\Charisma.Domain.deps.json
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Domain\bin\Debug\net7.0\Charisma.Domain.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Domain\bin\Debug\net7.0\Charisma.Domain.pdb
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Domain\obj\Debug\net7.0\Charisma.Domain.csproj.AssemblyReference.cache
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Domain\obj\Debug\net7.0\Charisma.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Domain\obj\Debug\net7.0\Charisma.Domain.AssemblyInfoInputs.cache
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Domain\obj\Debug\net7.0\Charisma.Domain.AssemblyInfo.cs
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Domain\obj\Debug\net7.0\Charisma.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Domain\obj\Debug\net7.0\Charisma.Domain.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Domain\obj\Debug\net7.0\refint\Charisma.Domain.dll
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Domain\obj\Debug\net7.0\Charisma.Domain.pdb
+C:\Users\Pooya\Desktop\Pooya\Charisma\Source\Charisma.Appointment.v3\Charisma.Domain\obj\Debug\net7.0\ref\Charisma.Domain.dll
