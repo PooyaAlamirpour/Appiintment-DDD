@@ -119,7 +119,7 @@ namespace Appointment.Test
         }
         
         [Fact]
-        public void Controllers_Should_Not_Have_DependencyOnMediatR()
+        public void Controllers_Should_Have_DependencyOnMediatR()
         {
             // Arrange
             var assembly = typeof(Presentation.PresentationAssembly).Assembly;
