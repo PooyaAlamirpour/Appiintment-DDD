@@ -6,6 +6,7 @@ using Appointment.Persistence.Common.Constants;
 using Appointment.Persistence.Common.Converters;
 using Appointment.Persistence.Common.Converters.Abstracts;
 using Appointment.Persistence.Common.Interceptors;
+using Appointment.Persistence.Common.Logging;
 using Appointment.Persistence.DbContexts.EfCore;
 using Appointment.Persistence.Entities;
 using Appointment.Persistence.Repositories;
@@ -22,7 +23,7 @@ namespace Appointment.Persistence
             services.AddInterceptors();
             
             // todo: Un-comment the below code for real database usage
-            /*services.AddDbContext<EfCoreDbContext>((serviceProvider, options) =>
+            services.AddDbContext<EfCoreDbContext>((serviceProvider, options) =>
             {
                 var updateAuditableEntitiesInterceptor =
                     serviceProvider.GetRequiredService<UpdateAuditableEntitiesInterceptor>();
@@ -30,20 +31,12 @@ namespace Appointment.Persistence
                     serviceProvider.GetRequiredService<UpdateSoftDeletableEntitiesInterceptor>();
                 options.UseSqlServer(configuration.GetConnectionString(ConnectionStringKeys.Database))
                     .AddInterceptors(updateAuditableEntitiesInterceptor, updateSoftDeletableEntitiesInterceptor);
-            });*/
+            });
             
             // todo: Comment the below code for real database usage
-            services.AddDbContext<EfCoreDbContext>(opt => opt.UseInMemoryDatabase("AppointmentDb"));
+            // services.AddDbContext<EfCoreDbContext>(opt => opt.UseInMemoryDatabase("AppointmentDb"));
             
             services.AddTransient<IEntityConvertor, EntityConvertor>();
-            services.AddScoped<IScheduleRepository, ScheduleRepository>();
-            services.AddScoped<IAppointmentRepository, AppointmentRepository>();
-            services.AddScoped<IDoctorRepository, DoctorRepository>();
-            services.AddScoped<IPatientRepository, PatientRepository>();
-            services.AddScoped<IAsyncRepository<DoctorEntity, Guid>, AsyncRepository<DoctorEntity, Guid>>();
-            services.AddScoped<IAsyncRepository<ScheduleEntity, long>, AsyncRepository<ScheduleEntity, long>>();
-            services.AddScoped<IAsyncRepository<PatientEntity, Guid>, AsyncRepository<PatientEntity, Guid>>();
-            services.AddScoped<IAsyncRepository<AppointmentEntity, Guid>, AsyncRepository<AppointmentEntity, Guid>>();
             
             services.AddScoped<IUnitOfWork, UnitOfWork>();
 
@@ -64,8 +57,25 @@ namespace Appointment.Persistence
 
         private static IServiceCollection AddRepositories(this IServiceCollection services)
         {
-            services.AddScoped<IAppointmentRepository, AppointmentRepository>();
+            services.AddScoped<IAppointmentRepository>(x =>
+            {
+                var convertor = x.GetService<IEntityConvertor>();
+                var asyncRepository = x.GetService<IAsyncRepository<AppointmentEntity, Guid>>();
+                IAppointmentRepository appointmentRepository = new AppointmentRepository(convertor, asyncRepository);
 
+                appointmentRepository = LoggingProxy<IAppointmentRepository>
+                    .SetProxy(appointmentRepository);
+                
+                return appointmentRepository;
+            });
+            services.AddScoped<IScheduleRepository, ScheduleRepository>();
+            services.AddScoped<IDoctorRepository, DoctorRepository>();
+            services.AddScoped<IPatientRepository, PatientRepository>();
+            services.AddScoped<IAsyncRepository<DoctorEntity, Guid>, AsyncRepository<DoctorEntity, Guid>>();
+            services.AddScoped<IAsyncRepository<ScheduleEntity, long>, AsyncRepository<ScheduleEntity, long>>();
+            services.AddScoped<IAsyncRepository<PatientEntity, Guid>, AsyncRepository<PatientEntity, Guid>>();
+            services.AddScoped<IAsyncRepository<AppointmentEntity, Guid>, AsyncRepository<AppointmentEntity, Guid>>();
+            
             return services;
         }
 

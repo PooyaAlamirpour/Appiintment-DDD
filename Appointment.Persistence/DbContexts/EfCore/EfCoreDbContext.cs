@@ -14,7 +14,7 @@ namespace Appointment.Persistence.DbContexts.EfCore
         public EfCoreDbContext(DbContextOptions<EfCoreDbContext> options) : base(options)
         {
             // todo: Comment the below code for real database usage
-            SeedInMemoryDatabase.Seed(this);
+            // SeedInMemoryDatabase.Seed(this);
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
